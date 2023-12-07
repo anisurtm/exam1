@@ -1,0 +1,144 @@
+*{
+    margin: 0px;
+}
+.div1{
+    background-color: white;
+    position: fixed;
+    border: 1px solid rgb(230, 227, 227);
+    display: flex;
+    align-items: center;
+}
+.div2 img{
+    width: 50px;
+    border: 1px solid rgb(229, 223, 223)
+}
+.div3{
+    margin-left:5px ;
+}
+.div4{
+    background-color: #F5F5F5;
+    margin-left: 240px;
+    padding-left: 5px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+
+}
+.div4 i{
+    margin-left: 3px;
+    font-size: 13px;
+    color: rgb(155, 157, 159);
+    cursor: pointer;
+    
+}
+.inp1{
+    background-color: #F5F5F5;
+    outline: none;
+    border: none;
+    width: 430px;
+
+}
+.div5 {
+    
+    margin-left: 250px;
+}
+.div5 a{
+    text-decoration: none;
+    margin-right: 10px;
+    font-size: 13px;
+    font-weight: bold;
+    color: black;
+}
+.start1{
+    border: 1px solid black;
+   padding-left: 15px;
+   padding-right: 15px;
+   border-radius: 5px;
+   padding-top: 6px;
+   padding-bottom: 6px;
+}
+.on{
+    width: 33px;
+    clip-path: circle() ;
+    
+    
+}
+.li{
+    align-self: center;
+   
+}
+.div6{
+    margin-left: 90px;
+    display: flex;
+    margin-right:90px;
+}
+.hi{
+    width: 650px;
+    margin-top: 90px;
+}
+.div7{
+    margin-top:150px ;
+    line-height: 1.5;
+    
+}
+.div7 h1{
+    font-size: 30px;
+}
+.span14{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.bt1{
+    background-color:#0D99FF ;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+}
+.div8 button{
+    margin-top: 100px;
+    border: none;
+    background-color: white;
+    
+}
+.hr1{
+    margin-top: 20px;
+}
+.div10{
+    margin: 20px 100px;
+    display: flex;
+    gap: 50px;
+}
+.div11{
+    line-height: 1.5;
+}
+.div11 a {
+    text-decoration: none;
+    color: #0D99FF;
+}
+.sp2{
+    font-weight: bold;
+}
+.sp32{
+    font-weight: bold;
+}
+.div12{
+    line-height: 1.5;
+
+}
+.div12 a {
+    text-decoration:  none;
+    color: #0D99FF;
+}
+.btnall{
+    padding: 10px;
+    background-color: white;
+    border: 1px solid rgb(174, 171, 171);
+    gap: 5px;
+    margin-top: 10px;
+    border-radius: 5px;
+    
+}
